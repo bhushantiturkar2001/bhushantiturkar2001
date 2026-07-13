@@ -1,4 +1,4 @@
-# Hi, I'm Bhushan Titurkar 👋
+# Hi, I'm Bhushan Titurkar
 
 I am a Software Engineer specializing in backend development, microservices, and system architecture. I focus on writing clean, scalable backend code, designing secure API contracts, and building responsive full-stack applications.
 
