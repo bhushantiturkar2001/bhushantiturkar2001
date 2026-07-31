@@ -9,7 +9,7 @@ I am a Software Engineer specializing in backend development, microservices, and
 *   **Languages:** Java, JavaScript, SQL, HTML5, CSS3
 *   **Frameworks & Libraries:** Spring Boot, Spring MVC, JPA/Hibernate, Spring Security, React.js
 *   **Microservices & Messaging:** Apache Kafka, Spring Cloud Gateway, gRPC, REST APIs
-*   **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis
+*   **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis, H2
 *   **Tools & DevOps:** Docker, AWS (S3/LocalStack), Git, Maven, Postman, Linux
 
 ---
